@@ -15,10 +15,10 @@ https://drive.google.com/file/d/1lY3d0cHHcVsCfdgcCa81QFut3IeleaiR/view
 
 
 ## Tool & Resources
--Node.js 
--inquirer 
--console.table  
--mysql2 
+- Node.js 
+- inquirer 
+- console.table  
+- mysql2 
 
 ## Application Challenges
 1: Had issues with running schema.sql and seed.sql. Both are vary particular on the syntax and one missed comma can cause a bunch of issues
