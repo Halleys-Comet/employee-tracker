@@ -19,7 +19,7 @@ VALUES
 INSERT INTO employees (first_name, last_name, title, manager_name)
 VALUES 
 ('Sage', 'Huegel', 'Salesperson', NULL),
-('Brandon', 'Robinson', 'Accountant', NULL,
+('Brandon', 'Robinson', 'Accountant', NULL),
 ('Tyler','Kaphingst', 'salesperson', NULL),
 ('Alex', 'Schmitt', 'Software Engineer', 'Jimbo'),
 ('Nicole', 'Meyers', 'Lawyer', 'Samantha'),
