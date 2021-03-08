@@ -15,8 +15,7 @@ https://drive.google.com/file/d/1lY3d0cHHcVsCfdgcCa81QFut3IeleaiR/view
 
 
 ## Tool & Resources
--Node.js - JavaScript runtime environment
-Dependencies
+-Node.js 
 -inquirer 
 -console.table  
 -mysql2 
